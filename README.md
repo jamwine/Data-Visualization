@@ -9,4 +9,4 @@ In order to download the notebook in the local machine, follow these steps:
 3. Right click and select Save As or press ctrl+s to save it. Save the file as .ipynb.
 4. Open jupyter notebook.
 5. Go to location where you saved .ipynb file.
-6. Open file, you will see the code.
+6. Open the file, you will see the code.
